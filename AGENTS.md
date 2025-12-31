@@ -5,6 +5,12 @@ This file documents the work done by the AI agent during this session.
 ## Date
 December 31, 2025
 
+## Project Information
+
+- **Title**: SMA Diploma Website
+- **Website URL**: https://diploma.mediaacademy.sg/
+- **Sitemap**: https://diploma.mediaacademy.sg/sitemap.xml
+
 ## Tasks Completed
 
 ### 1. Codebase Analysis
@@ -69,6 +75,21 @@ Each markdown file includes:
 - Created: `squarespace.xml` (copied from `xml/squarespace.xml`)
 - Created: `img/` directory (with 421 image files)
 - Created: `posts/` directory (with 93 markdown files)
+
+### 7. Image-to-Page Mapping Utility
+- Created `map_images_to_pages.py` script to analyze which images are used on which pages
+- Generated `image_to_page_mapping.json` with complete mapping data
+- **Results**:
+  - 51 pages contain images
+  - 235 unique images mapped
+  - 317 total image-page relationships
+  - Top page: `trainers-internal` with 37 images
+  - Most reused image: `FooPiaoXu.png` used on 5 pages
+
+### 8. Repository Setup
+- Created GitHub repository: https://github.com/krome-sg/sma-dip
+- Updated remote from old repository to new one
+- Committed and pushed all project files including documentation and utilities
 
 ## Technical Details
 
