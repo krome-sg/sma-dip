@@ -8,6 +8,7 @@ December 31, 2025
 ## Project Information
 
 - **Title**: SMA Diploma Website
+- **Also Known As**: Tertiary Education Programmes
 - **Website URL**: https://diploma.mediaacademy.sg/
 - **Sitemap**: https://diploma.mediaacademy.sg/sitemap.xml
 
