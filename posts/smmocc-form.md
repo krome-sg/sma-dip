@@ -1,0 +1,10 @@
+---
+title: SMMOCC Register Interest
+date: Mon, 15 Sep 2025 09:23:16 +0000
+---
+Specialist Diploma in Social Media Marketing and Online Content CreationDesigned to empower marketers with cutting-edge skills, this programme provides a comprehensive roadmap to navigate the Social Media landscape. Through a carefully crafted curriculum, participants will master the art of crafting persuasive copy for interactive media, creating captivating online content spanning diverse formats and social media platforms, and strategically leveraging social media platforms to promote products and services effectively.This is a 12-month part-time programme.
+
+Unique ValuesCourse Content: Our curriculum is designed to be hands-on and industry-relevant, guiding students through the entire social media marketing process from concept to ROI tracking. The Making Online Content module specifically incorporates mobile technology and draws on the practices of the film industry, providing a comprehensive and practical learning experience.Trainers: Our trainers are current media professionals who bring the latest industry knowledge and practices to the classroom.Training Facilities: Our classes are conducted using professional-grade equipment and facilities.Training Grants: This programme is supported by SkillsFuture Singapore (SSG) with up to 95% SkillsFuture Funding for eligible participants.
+
+Training GrantsEligible participants can enjoy up to 95% SkillsFuture Course Fee Funding. Terms and conditions apply.Specialist Diploma in Social Media Marketing and Online Content Creation is also available under the SkillsFuture Career Transition Programme (SCTP).Funding Schemes:Funding for Self-Sponsored TrainingFunding for Employer-Sponsored TrainingSkillsFuture CreditSkillsFuture Mid-Career Enhanced Subsidy (MCES)Enhanced Training Support for Small and Medium Enterprises (ETSS)Workfare Skills Support (WSS) SchemeSingaporeans aged 40 and above can utilise SkillsFuture Credit (Mid-Career) of $4,000 to further offset out-of-pocket course fees for SkillsFuture Career Transition Programme (SCTP).
+SMA Graduate Survey 2023

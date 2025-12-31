@@ -1,0 +1,5 @@
+---
+title: Open House Info
+date: Mon, 28 Jul 2025 07:52:46 +0000
+---
+Singapore Media Academy Open House 2025Leading local media professionals will share their industry experience, insights and industry developments happening within the media industry. Learn what life is like as a professional in the media industry, how different stages of production requires the skills and expertise of different professionals. Those who are passionate about the craft of acting can attend a sample acting class. Understand how you can embark on a career in the media industry.Event Date: 23 August 2025, SaturdayEvent Time: 10.30am to 3.30pmVenue: Mediacorp Campus, 1 Stars Ave, Singapore 138507Programme:SkillsFuture Workshop by SouthWest CDCThe world of Content Creation, Direction & Production ManagementThe work of Technical Craft – Post-Production and Social MediaThe world of ActingAttendees stand to receive exclusive freebies like a 1-month free meWATCH Prime Subscription and other freebies.

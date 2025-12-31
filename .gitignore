@@ -1,5 +1,3 @@
 .DS_Store
-posts
-img
 *.xml
 __pycache__
