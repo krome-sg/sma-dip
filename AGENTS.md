@@ -92,6 +92,23 @@ Each markdown file includes:
 - Updated remote from old repository to new one
 - Committed and pushed all project files including documentation and utilities
 
+### 9. Programme Extraction
+- Extracted programme information from HTML navigation structure
+- Parsed programme links from the Header-nav-folder element
+- **Results**: Extracted 10 programmes with their titles, slugs, and URLs
+- Generated `programmes.json` (structured data) and `programmes.md` (markdown table)
+- **Programmes extracted**:
+  1. SkillsFuture Career Transition Programme (SCTP) - `/sctp`
+  2. (SCTP) Diploma in Digital Media Production (Full-Time) (TA-eligible) - `/ddmpft`
+  3. WSQ Specialist Diploma in Media (Content Production and Management) - Director - `/dimd`
+  4. WSQ Specialist Diploma in Media (Content Production and Management) - Producer - `/sdmcpmp`
+  5. WSQ Diploma in Media (Content Production and Management) - Assistant Director - `/dimad`
+  6. WSQ Diploma in Media (Content Production and Management) - Scriptwriter - `/dipsw`
+  7. WSQ Diploma in Media (Post-Production) - Sound Editor/Sound Engineer - `/dimse`
+  8. Diploma in Media (Post-Production) - Video Editor - `/dmve`
+  9. Specialist Diploma in Social Media Marketing and Online Content Creation - `/sdsmmocc`
+  10. Diploma in Acting (Chinese) - `/dia`
+
 ## Technical Details
 
 ### Script Functionality
