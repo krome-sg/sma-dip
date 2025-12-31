@@ -1,0 +1,2310 @@
+{
+  "pages": {
+    "new-gallery": {
+      "image_count": 8,
+      "images": [
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534131606350-R1MWCSGL3RA8NTP8I2S0/sma-homepage-diploma-acting-thumbnail.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1541063566113-NIUB6M0KRA3KRGRYZ3MF/sma-homepage-social-media-marketing-thumbnail.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1582703641452-VBXT8YAHCRYWUGXYYB7X/wsq-specialist-diploma-media-content-production-management-thumbnail.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602577664163-NO8JRK6WV4690AM20PAT/sma-homepage-audio-engineering-thumbnail.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578256849-I7XNUKKQ6CZ3IIFKZE6Z/sma-homepage-wsq-film-tv-production-thumbnail.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578337175-ZELO5BWMS3KW3D927Y1Q/sma-homepage-wsq-film-tv-script-thumbnail.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707204648556-X47HCT6GZ6XT4B3BCP9T/DMVE-preview-thumbnail-300x196.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg"
+      ]
+    },
+    "preview-session-info-stay-tuned": {
+      "image_count": 9,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534131606350-R1MWCSGL3RA8NTP8I2S0/sma-homepage-diploma-acting-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1541063566113-NIUB6M0KRA3KRGRYZ3MF/sma-homepage-social-media-marketing-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1582703641452-VBXT8YAHCRYWUGXYYB7X/wsq-specialist-diploma-media-content-production-management-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602577664163-NO8JRK6WV4690AM20PAT/sma-homepage-audio-engineering-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578256849-I7XNUKKQ6CZ3IIFKZE6Z/sma-homepage-wsq-film-tv-production-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578337175-ZELO5BWMS3KW3D927Y1Q/sma-homepage-wsq-film-tv-script-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707204648556-X47HCT6GZ6XT4B3BCP9T/DMVE-preview-thumbnail-300x196.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/790625ab-f3d0-4784-a8fe-bcae1eed2976/SMA-Preview-Session-01+1.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg"
+      ]
+    },
+    "programme-info": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534253929056-WIZX3V52WCMRGXX20Q84/production-thumbnail.jpg?format=original"
+      ]
+    },
+    "programme-info-2": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534253824001-7OTK5QIY8I2W0QXI5T17/production-thumbnail.jpg?format=original"
+      ]
+    },
+    "programme-info-3": {
+      "image_count": 9,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b7c78a1-ca9f-45c9-ac7e-54b64d7fb355/sma-pay-now.png",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/238823d7-7c19-4148-8d03-8f9c9fc60616/NickShen.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/4d674429-9200-44eb-8c1d-31733e940ac7/DouglasKung.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6b696df4-82f1-4992-a4f5-caa8006a7292/BerniceLee.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/84048e3a-a729-455d-b391-f9fb763fc4fd/LiowShiSuan.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/8f3eb96f-7974-4cf1-b24a-c088cc038f9f/Microsite+Course+Page+Visual+%282%29.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bce17131-dae9-4391-885a-c5f97c0527d7/GohWeiNa.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f01435cd-049b-4016-85a7-a63a1660ded7/DavidSuen_v1.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/fc1460f9-e6af-4402-8e2b-3e7ca108719c/CherylZhang.png?format=750w"
+      ]
+    },
+    "programme-info-1": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534302230764-39DICWOBIJNMRV367MOT/audio-engineering-thumbnail.jpg?format=original"
+      ]
+    },
+    "programme-info-5": {
+      "image_count": 8,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1556810067429-257WE2GJ0MHBWMVN1E40/Andrea-Tan.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1556810090355-YW86WMK6V810SN79B2R5/Nicole-Loh.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1e20c4a4-ab0c-4826-9ff4-f9cf0f6886eb/AzharAzib.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/38f7d57c-1a16-42a7-ba22-eb6d1535cc72/SongLili.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/5c5a59b3-2ec1-415a-8882-6111e3caaad9/RayPang.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7a117b9c-86fa-440a-8e90-d579b4cd40d1/AdrianChye.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d700a606-c402-4086-b473-17a8582bba13/RexYeap.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f36b32ff-49a0-4e3b-9f0c-0c65986ad914/ColinSmith.png?format=1500w"
+      ]
+    },
+    "home-media-gallery": {
+      "image_count": 5,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906074442-MG03DQRMKDXYMEF4MVUT/mediacorp-studio-behind-the-scenes.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906081449-98UZR7CV60JFKAX25HGE/guest-sharing-session-priscelia-chan.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906088124-Y0QK0FK76JABI1DDX9YY/guest-sharing-session-guo-liang.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906101022-VMG0Z6UYMNK8U29BVS9I/guest-sharing-session-sam-lee.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906106318-27ZVVQS5SQSADR2YMG06/guest-sharing-session-lye-lin.jpg?format=original"
+      ]
+    },
+    "trainers-internal": {
+      "image_count": 37,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0061c2c0-87c8-4a92-8ec0-5d6acd1dc80e/DisabledActorsStarInLocalIndieFilm.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/07751be1-57d8-47ae-a336-22a0e1b08ed6/RicAw.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b3d0a46-bb12-429e-a87b-be66ab476fdb/DavidSuen.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b7c78a1-ca9f-45c9-ac7e-54b64d7fb355/sma-pay-now.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1556810067429-257WE2GJ0MHBWMVN1E40/Andrea-Tan.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1556810090355-YW86WMK6V810SN79B2R5/Nicole-Loh.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1e20c4a4-ab0c-4826-9ff4-f9cf0f6886eb/AzharAzib.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/238823d7-7c19-4148-8d03-8f9c9fc60616/NickShen.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/240cc473-49ad-4ce8-9885-d099e9eccdf9/AngHuiXuan.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/29fe3507-267d-49fb-a232-33477a96ade3/NoraswanMohamed.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/38f7d57c-1a16-42a7-ba22-eb6d1535cc72/SongLili.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/46c78ffc-203f-45dd-a500-d48e37e65e68/Trainer.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/4d674429-9200-44eb-8c1d-31733e940ac7/DouglasKung.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/5c5a59b3-2ec1-415a-8882-6111e3caaad9/RayPang.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6273dd4b-74b7-4ef2-9879-b5be52942c93/ShawnKok.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/69e212cb-c9ef-458a-a9e4-dbba72f8354f/SeahLeeYan.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6b696df4-82f1-4992-a4f5-caa8006a7292/BerniceLee.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6f31feb0-693e-4f9a-a6a4-703cc6561de9/FritzLim.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7a117b9c-86fa-440a-8e90-d579b4cd40d1/AdrianChye.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7d0a3652-1108-40b0-8a4e-dc6bb4310cc6/ChrisLim.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7d8b966d-38bd-4036-b486-8c0b106d1d14/ZulananAhmad.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/84048e3a-a729-455d-b391-f9fb763fc4fd/LiowShiSuan.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/8ea96b56-579f-4be2-a11e-70eba5cade9a/NikkEu.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/901911e8-7a0c-4419-aafa-ffcb99a2494f/LeeCheeKeng.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/93672aab-0d93-4b17-a6bb-39d0b3932a8e/Trainer.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b5537639-7517-40f0-a361-10fc3720c398/JuanFoo.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ba8eb098-fcc4-4b22-83be-38466dae8d9f/JustinLoh.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bc68cb6a-9c15-4ab4-95ea-34f4ab5edb80/JanetLiau.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bce17131-dae9-4391-885a-c5f97c0527d7/GohWeiNa.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cb07b567-eb71-475c-8df6-a6a86745b51e/JulianCheong.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cf2e9c5a-af03-4889-b764-700048627691/FooPiaoXu.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d63ea59c-d517-48ff-bcd8-7574b700e821/Boris+Boo.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d700a606-c402-4086-b473-17a8582bba13/RexYeap.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f36b32ff-49a0-4e3b-9f0c-0c65986ad914/ColinSmith.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/fc1460f9-e6af-4402-8e2b-3e7ca108719c/CherylZhang.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ff52b5a5-cda1-4c34-8c06-c86834a99988/SamLee.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ff84a564-c325-47fc-bb16-f9c7461adc69/AngQingSheng.png?format=original"
+      ]
+    },
+    "header-6": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1561018215648-4T7WV72TW6AZLV43K6UP/SMA-DMCC-microsite-banner-texts.png?format=original"
+      ]
+    },
+    "programme-info-6": {
+      "image_count": 2,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b7c78a1-ca9f-45c9-ac7e-54b64d7fb355/sma-pay-now.png",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1560311205884-QHGYO653ABYM30QL2V28/digital-marketing-and-content-creation-image.jpg?format=original"
+      ]
+    },
+    "header-5": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1576831969444-KQ46EH7KMB29M18I9GT1/digital-retail-entertainment-font.png?format=original"
+      ]
+    },
+    "programme-info-4": {
+      "image_count": 2,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1576834100359-NG5QFZMI7MQ1OZ16UNMT/digital-retail-entertainment-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/a8d85fe8-7538-4ef4-aa7c-e88d832844d5/SMA-SIRS.png?format=original"
+      ]
+    },
+    "programme-info-7": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1582772651619-G4IJ2DTJTHHQQ4VPSK7D/production-crew-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b5537639-7517-40f0-a361-10fc3720c398/JuanFoo.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bc68cb6a-9c15-4ab4-95ea-34f4ab5edb80/JanetLiau.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cf2e9c5a-af03-4889-b764-700048627691/FooPiaoXu.png?format=1500w"
+      ]
+    },
+    "krome-test": {
+      "image_count": 16,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232592460-7TFCGW1I4D3OQJXXXA6E/SDIPP_Desktop+2000x500.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232724809-KTHHUAUV2Q68N4D860C6/SGUS-Desktop-Slider-2000x500-Sound-Editor-Engineer.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232761998-21C3TPBZ7UPO316QKZ2W/SMMOCC_Desktop+2000x500.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232884477-526BUUY25PSBTI9PV6IJ/SGUS-Mobile-Slider-750x500-Sound-Editor-Engineer.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232918839-2LYW3T8WUROYZ4PO0PRY/SDIPP_Mobile+750x500.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232971969-9JEMFIH5M46XSVD7WP7V/SMMOCC_Mobile+750x500.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559200926-68RIH99YH7Z0Z4H13WP2/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559272263-69625YPM6DP5O6Q2YDCC/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559428478-7CARKHBE90KMX9OUS2C4/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559488066-CN30QKRGWL5NPTPLH63J/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559624717-H1IB35NMO37FH9BTLRQJ/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677710049-8VQZSGLDIGICGIORYC7A/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277542042-CT09N9PLIZXQS2OVDXHR/DMVE-Homepage-Slider-Desktop-2000x500-Open-Register.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277841259-108F2PMD37ZI1RRB4768/DMVE-Homepage-Slider-Mobile-750x500-Register-Interest.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825874445-3U99Z4LC9VTN1U16OQ6M/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825959693-VP2GERLWIY70R8PZGVKE/image-asset.jpeg?format=original"
+      ]
+    },
+    "sgunited-programmes-old": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1595232659549-H8RQIILX3YFAK7X6IH3B/image-asset.png?format=original"
+      ]
+    },
+    "home-programmes-3col": {
+      "image_count": 9,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527479258318-KR2K4ONBGN1UCEDIJW0C/sma-homepage-audio-engineering-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527479559840-6NMPK8COT6U2J9I340S2/sma-homepage-diploma-acting-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527479737404-71ACIBZRKYI4Y1RRX9JG/sma-homepage-social-media-marketing-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527480006033-TL0S3IRBVP2DNXGKV8O1/sma-homepage-wsq-film-tv-script-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527480280781-0NH3LS8B00UCDQNX9540/sma-homepage-wsq-film-tv-production-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1560918797743-4JKAB7VG0TE8HKGKC7PO/sma-homepage-Digital_Marketing_and_Content_Creation.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1577084316850-528ASYRIYVQMKKAAB6EN/professional-certificate-digital-retail-entertainment-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1588734865763-NQSGPYUR74JQRJ6TBJFA/wsq-specialist-diploma-media-content-production-producer-management-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1595831276437-1C21OV52SM082KZ8P478/sma-sgunited-skills-thumbnail.jpg?format=original"
+      ]
+    },
+    "programme-info-6d2dg": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1596532631427-4GL9G5FFXL45KF2ZLVCM/sma-sgunited-prog-wtp-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1596532662253-3PZFCMYSS5UCQZ4NAOXC/sma-sgunited-prog-smmtp-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1596532705094-PAB5XEVZ9BYUS27XE5VN/sma-sgunited-prog-pctp-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1596532742431-5VI95PHW3VZFZKOKMVFL/sma-sgunited-prog-vetp-thumbnail.jpg?format=original"
+      ]
+    },
+    "programme-info-dip-media-scriptwriter": {
+      "image_count": 5,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534253824001-7OTK5QIY8I2W0QXI5T17/production-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bc68cb6a-9c15-4ab4-95ea-34f4ab5edb80/JanetLiau.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cb07b567-eb71-475c-8df6-a6a86745b51e/JulianCheong.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d63ea59c-d517-48ff-bcd8-7574b700e821/Boris+Boo.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ff84a564-c325-47fc-bb16-f9c7461adc69/AngQingSheng.png?format=1500w"
+      ]
+    },
+    "home-programmes-3-col-2": {
+      "image_count": 26,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527479559840-6NMPK8COT6U2J9I340S2/sma-homepage-diploma-acting-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527479737404-71ACIBZRKYI4Y1RRX9JG/sma-homepage-social-media-marketing-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1588734865763-NQSGPYUR74JQRJ6TBJFA/wsq-specialist-diploma-media-content-production-producer-management-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1600166250488-O56JC7PXZPUPNLJS0ECA/wsq-dip-media-scriptwriter-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1600168612131-BNPQMP099WBEWDYOBB7F/wsq-dip-media-assistant-director-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1600766591453-GOW1TC9NH37U3DSX7CQG/wsq-dip-media-pp-soundee-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232592460-7TFCGW1I4D3OQJXXXA6E/SDIPP_Desktop+2000x500.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232724809-KTHHUAUV2Q68N4D860C6/SGUS-Desktop-Slider-2000x500-Sound-Editor-Engineer.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232761998-21C3TPBZ7UPO316QKZ2W/SMMOCC_Desktop+2000x500.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232884477-526BUUY25PSBTI9PV6IJ/SGUS-Mobile-Slider-750x500-Sound-Editor-Engineer.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232918839-2LYW3T8WUROYZ4PO0PRY/SDIPP_Mobile+750x500.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232971969-9JEMFIH5M46XSVD7WP7V/SMMOCC_Mobile+750x500.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559200926-68RIH99YH7Z0Z4H13WP2/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559272263-69625YPM6DP5O6Q2YDCC/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559428478-7CARKHBE90KMX9OUS2C4/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559488066-CN30QKRGWL5NPTPLH63J/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559624717-H1IB35NMO37FH9BTLRQJ/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677710049-8VQZSGLDIGICGIORYC7A/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277542042-CT09N9PLIZXQS2OVDXHR/DMVE-Homepage-Slider-Desktop-2000x500-Open-Register.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277841259-108F2PMD37ZI1RRB4768/DMVE-Homepage-Slider-Mobile-750x500-Register-Interest.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825874445-3U99Z4LC9VTN1U16OQ6M/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825959693-VP2GERLWIY70R8PZGVKE/image-asset.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/29afe851-db6d-4d01-ab70-77a67302482f/diplioma-in-digital-media-production-thumb.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6cb5a577-5999-4018-b1bd-9f40fc3d3f31/Website+Event+Banner.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bd49bd1a-0cd0-456f-9257-1c1760481d26/Homepage-Programme-Tile-750x491-DMVE.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg?format=original"
+      ]
+    },
+    "programme-info-wsq-dip-media-ad": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b3d0a46-bb12-429e-a87b-be66ab476fdb/DavidSuen.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534253929056-WIZX3V52WCMRGXX20Q84/production-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ba8eb098-fcc4-4b22-83be-38466dae8d9f/JustinLoh.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cf2e9c5a-af03-4889-b764-700048627691/FooPiaoXu.png?format=1500w"
+      ]
+    },
+    "programme-info-8hce6": {
+      "image_count": 6,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534302230764-39DICWOBIJNMRV367MOT/audio-engineering-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/29fe3507-267d-49fb-a232-33477a96ade3/NoraswanMohamed.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6273dd4b-74b7-4ef2-9879-b5be52942c93/ShawnKok.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6f31feb0-693e-4f9a-a6a4-703cc6561de9/FritzLim.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/8ea96b56-579f-4be2-a11e-70eba5cade9a/NikkEu.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ba8eb098-fcc4-4b22-83be-38466dae8d9f/JustinLoh.jpg?format=1500w"
+      ]
+    },
+    "home-desktop-gallery": {
+      "image_count": 20,
+      "images": [
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232592460-7TFCGW1I4D3OQJXXXA6E/SDIPP_Desktop+2000x500.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232724809-KTHHUAUV2Q68N4D860C6/SGUS-Desktop-Slider-2000x500-Sound-Editor-Engineer.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232761998-21C3TPBZ7UPO316QKZ2W/SMMOCC_Desktop+2000x500.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559200926-68RIH99YH7Z0Z4H13WP2/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559428478-7CARKHBE90KMX9OUS2C4/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559488066-CN30QKRGWL5NPTPLH63J/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680676739505-TXJM68AZE7WXWKHY5XV6/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677767096-12HYJZZSSAT02ESUODCD/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677806295-Z8LHJLUR8Y3M0P9OY9MT/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677848796-SGLG66HW6FTE4RIBKBCG/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680696390074-VHIOIP65MUYZJY642Z1Q/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680696458699-F40WQVD5X1W0ZZMKQDCN/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277542042-CT09N9PLIZXQS2OVDXHR/DMVE-Homepage-Slider-Desktop-2000x500-Open-Register.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277676568-TATFXS5DNZMBN14JKY7E/DMVE-Homepage-Slider-Desktop-2000x500-Register-Interest.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1743756170606-30VZ80V7ESBJN2CIBP2T/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299307792-4VZ8GWBBDRRJRJL9RHHZ/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299386779-MN6A59NA045IEU146SI9/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1753689241882-QF4G0XIUYGCL2A4N6V1T/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825874445-3U99Z4LC9VTN1U16OQ6M/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825937594-NPCANEH3Y50YA332Y30A/image-asset.jpeg/img.jpg"
+      ]
+    },
+    "home-mobile-gallery": {
+      "image_count": 20,
+      "images": [
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232884477-526BUUY25PSBTI9PV6IJ/SGUS-Mobile-Slider-750x500-Sound-Editor-Engineer.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232918839-2LYW3T8WUROYZ4PO0PRY/SDIPP_Mobile+750x500.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232971969-9JEMFIH5M46XSVD7WP7V/SMMOCC_Mobile+750x500.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559272263-69625YPM6DP5O6Q2YDCC/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559624717-H1IB35NMO37FH9BTLRQJ/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559666442-XK7644H7S80JU9DBMXHL/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680676880564-Q75XFPLXHGWA0Z5NTNUI/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677551520-MXDQZCHT381I300P3Z4Q/DMAD.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677649967-W6Z0GEFTWI4FSVQBJ8IS/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677710049-8VQZSGLDIGICGIORYC7A/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680696518705-L9EAMFVY8OM61LRX3ILV/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680696556136-UWBQ6X0NGMP4HL1U1ZFD/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277711081-BMMML4H74ISRI9O6QCDQ/DMVE-Homepage-Slider-Mobile-750x500-Open-Register.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277841259-108F2PMD37ZI1RRB4768/DMVE-Homepage-Slider-Mobile-750x500-Register-Interest.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1743756273915-O5NK4ASUJAMTSHJIPZZT/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299447095-X306XWR2Y5T2OCUKQ3VB/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299530227-667VZKQCTLHJ2JQMY5CR/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1753689299841-3PWTPAJGQYW2LCM87M1E/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825959693-VP2GERLWIY70R8PZGVKE/image-asset.jpeg/img.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825984851-35T77HH9X1ERC2QG5D46/Dip-Digital-Media-Prod-Homepage-Slider-Mobile-Open-Register.jpg"
+      ]
+    },
+    "faq": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b7c78a1-ca9f-45c9-ac7e-54b64d7fb355/sma-pay-now.png"
+      ]
+    },
+    "programme-info-revised-2": {
+      "image_count": 3,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1576834100359-NG5QFZMI7MQ1OZ16UNMT/digital-retail-entertainment-thumbnail.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/5c5a59b3-2ec1-415a-8882-6111e3caaad9/RayPang.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/a8d85fe8-7538-4ef4-aa7c-e88d832844d5/SMA-SIRS.png?format=original"
+      ]
+    },
+    "smmocc-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/19a08c0b-5075-4a14-a74f-97e1cb347f1b/Graduate+Survey+2023.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6d39652e-58a6-43e3-90c2-65cba1f8a875/3.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7f276924-79fa-4d1a-94af-2c5f640607b8/2.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b27c5185-ebd5-40f4-8830-aca35ef5d4e9/4.png?format=original"
+      ]
+    },
+    "dimd-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3a0e2a40-3567-4d06-9b12-083b0c203d52/3.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7e826350-e300-4c56-9954-8a2211b308b3/Graduate+Survey+2023.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bb98a030-0182-41c8-bdd7-9e5ad20ce110/4.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f56e859a-fbe2-4791-ac72-c21366e5f3cf/2.png?format=original"
+      ]
+    },
+    "dmad-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/19be4179-f717-4ff5-80f6-b6a2a76140fc/4.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/48d89841-6bc2-4b8a-9412-ac85d1d11091/Graduate+Survey+2023.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/97053b66-4203-4d26-a9b0-f19f842fdd33/2.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f14b6bab-a776-45c4-8d0d-b2789eb9bf23/3.png?format=original"
+      ]
+    },
+    "dmsw-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/06f878d6-54e1-4e78-8c9c-838c54b6dc4b/4.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/4f8ced84-b58c-42df-b070-630fbca62344/Graduate+Survey+2023.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6ad36aac-e468-4c02-bc11-1d338010f838/2.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/9c0aaa86-d4a5-4429-9720-e7a66201e27e/3.png?format=original"
+      ]
+    },
+    "dmse-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/67a92868-fe63-473e-a414-c757712e207c/4.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/784a05cc-b445-4b0e-807f-f2b4b5e699f6/3.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/a9bcabfc-01f2-4b91-b84c-145d99ebe5e3/2.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/c19077d2-226d-4054-87b0-553c0dabe24f/Graduate+Survey+2023.png?format=original"
+      ]
+    },
+    "dia-form": {
+      "image_count": 3,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bc6a3916-1954-46a2-97b7-b966371a1a52/2.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/eb034140-7bbc-4f20-a19d-ef794ece0304/Graduate+Survey+2023.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/fc107ef6-077d-4e96-84ff-16bbdec3460f/3.png?format=original"
+      ]
+    },
+    "programme-info-dmve": {
+      "image_count": 5,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/07751be1-57d8-47ae-a336-22a0e1b08ed6/RicAw.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b3d0a46-bb12-429e-a87b-be66ab476fdb/DavidSuen.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/29fe3507-267d-49fb-a232-33477a96ade3/NoraswanMohamed.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cf2e9c5a-af03-4889-b764-700048627691/FooPiaoXu.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/e6da8edf-8159-4f8c-bbc2-7e9891dc79b8/sma-dmve-programme-section.jpg?format=original"
+      ]
+    },
+    "board-of-directors": {
+      "image_count": 3,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/45e80d5f-a4d8-4597-a104-63f4fc8f4a81/Jamie+Ang.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/80e21b53-24ce-45ad-882c-0d8b2b090ca6/Doreen+Neo.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/e80b07a8-478b-4b02-9e06-aca7f31f1df2/Angeline+Poh.jpeg?format=original"
+      ]
+    },
+    "edutrust-certification": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/2354598b-7cf2-4aca-b484-fdde4cb90d8a/edutrust-logo-01.png?format=original"
+      ]
+    },
+    "organisation-chart": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/57c263b5-cdc7-4ec7-8a1b-25e9dfbe89b7/sma-organisation-chart-202506.jpg?format=original"
+      ]
+    },
+    "campus-facilities": {
+      "image_count": 5,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/19180955-489f-4e2e-82f1-a3e5d02665e1/Studio+4_1.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/61a026d6-20e7-4ef6-80da-1db58c7e11bc/Media+Lab.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/77dbc664-e323-4ca5-827b-5fb6de0a2ad8/Vista+1.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7d7077b2-f647-419d-a858-628587fcea7b/Vista+2.jpeg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/c3351b1b-af31-4edf-bcaa-fb0e572d2958/Dance+Studio.jpeg?format=original"
+      ]
+    },
+    "graduate-survey": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/713e8f86-e390-40cb-bb4e-544d29ef463b/Grad+Survey+2024.png?format=original"
+      ]
+    },
+    "dmve-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/34d0b342-a87c-46db-ac40-f0f55ad6cf62/2.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3c2ac1cf-5a24-43e9-9f80-f4c30a9c7dd1/4.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bcd57d1a-c13e-4849-bcf9-c6d863357cf5/3.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/dc32a637-f61a-474c-ae05-5159b52bfbee/Graduate+Survey+2023.png?format=original"
+      ]
+    },
+    "diploma-mces-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b771ed41-2e6e-4931-bcb0-f9a019b10d53/Graduate+Survey+2023.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/c2492ee1-2f64-4b91-bdb4-f3ff679dc73d/4.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d61e34f6-2be4-47a9-8057-3fd6737f4d3d/3.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da10f42e-4c29-49a7-aacd-7f9b41a1ee97/2.png?format=original"
+      ]
+    },
+    "student-works": {
+      "image_count": 2,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/2bb00147-c7f3-4c7e-b891-9355c73fc2ba/Link+to+Video+%281%29.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/686a4ed9-3688-415e-9fb8-b0692c213cdf/Link+to+Video.png?format=original"
+      ]
+    },
+    "reference": {
+      "image_count": 16,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/12dc46a0-a61e-483c-8e2d-3df8c28f19e9/Juan.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534131606350-R1MWCSGL3RA8NTP8I2S0/sma-homepage-diploma-acting-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1541063566113-NIUB6M0KRA3KRGRYZ3MF/sma-homepage-social-media-marketing-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1582703641452-VBXT8YAHCRYWUGXYYB7X/wsq-specialist-diploma-media-content-production-management-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602577664163-NO8JRK6WV4690AM20PAT/sma-homepage-audio-engineering-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578256849-I7XNUKKQ6CZ3IIFKZE6Z/sma-homepage-wsq-film-tv-production-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578337175-ZELO5BWMS3KW3D927Y1Q/sma-homepage-wsq-film-tv-script-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707204648556-X47HCT6GZ6XT4B3BCP9T/DMVE-preview-thumbnail-300x196.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3db24a18-82e6-4f9a-b800-b75cb978e56d/Janet.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/574dda22-630b-446a-b359-420c821ac480/Shisuen.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/8bead372-b6ea-4868-b454-124f6b0835d5/MeWatch.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/9db78ce3-327a-498a-83ee-fb83b3173006/Fritz.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b591a035-e2c5-442a-ab28-0de38958642f/Ray.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bd1069cb-5fd1-4107-a886-c5c893da4095/David.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/c30936ce-e4c0-45a0-bd89-41f1a40349d8/Noraswan.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg"
+      ]
+    },
+    "funded-diploma-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b771ed41-2e6e-4931-bcb0-f9a019b10d53/Graduate+Survey+2023.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/c2492ee1-2f64-4b91-bdb4-f3ff679dc73d/4.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d61e34f6-2be4-47a9-8057-3fd6737f4d3d/3.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da10f42e-4c29-49a7-aacd-7f9b41a1ee97/2.png?format=original"
+      ]
+    },
+    "preview-session-info-copy": {
+      "image_count": 10,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534131606350-R1MWCSGL3RA8NTP8I2S0/sma-homepage-diploma-acting-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1541063566113-NIUB6M0KRA3KRGRYZ3MF/sma-homepage-social-media-marketing-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1582703641452-VBXT8YAHCRYWUGXYYB7X/wsq-specialist-diploma-media-content-production-management-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602577664163-NO8JRK6WV4690AM20PAT/sma-homepage-audio-engineering-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578256849-I7XNUKKQ6CZ3IIFKZE6Z/sma-homepage-wsq-film-tv-production-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578337175-ZELO5BWMS3KW3D927Y1Q/sma-homepage-wsq-film-tv-script-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707204648556-X47HCT6GZ6XT4B3BCP9T/DMVE-preview-thumbnail-300x196.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/241ecb32-7276-4e32-863d-db896dc1a698/Juan.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ddb8b4f7-1897-4cc7-9638-8f2b7217a8f1/Ray.png?format=original"
+      ]
+    },
+    "preview-session-info-may-2025": {
+      "image_count": 8,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534131606350-R1MWCSGL3RA8NTP8I2S0/sma-homepage-diploma-acting-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1541063566113-NIUB6M0KRA3KRGRYZ3MF/sma-homepage-social-media-marketing-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1582703641452-VBXT8YAHCRYWUGXYYB7X/wsq-specialist-diploma-media-content-production-management-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602577664163-NO8JRK6WV4690AM20PAT/sma-homepage-audio-engineering-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578256849-I7XNUKKQ6CZ3IIFKZE6Z/sma-homepage-wsq-film-tv-production-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578337175-ZELO5BWMS3KW3D927Y1Q/sma-homepage-wsq-film-tv-script-thumbnail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707204648556-X47HCT6GZ6XT4B3BCP9T/DMVE-preview-thumbnail-300x196.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg"
+      ]
+    },
+    "programme-info-wsq-dip-media-dir": {
+      "image_count": 5,
+      "images": [
+        "https://images.squarespace-cdn.com/content/5b0511ba710699e0647fd707/1582702760495-JC6Z0WC6Y795YQCYV8I3/Zulanan_Ahmad.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/07751be1-57d8-47ae-a336-22a0e1b08ed6/RicAw.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3f4eb735-cd67-44be-b5e8-20eaacb551de/director-crew-900x438.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bc68cb6a-9c15-4ab4-95ea-34f4ab5edb80/JanetLiau.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cf2e9c5a-af03-4889-b764-700048627691/FooPiaoXu.png?format=1500w"
+      ]
+    },
+    "hero-banner": {
+      "image_count": 4,
+      "images": [
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1641195804448-SXJUVJY8KDOHKMWF3JBF/SGUS-Desktop-Slider-2000x500-Assistant-Director.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277676568-TATFXS5DNZMBN14JKY7E/DMVE-Homepage-Slider-Desktop-2000x500-Register-Interest.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1743756170606-30VZ80V7ESBJN2CIBP2T/sma-preview-2000x500-desktop.jpg",
+        "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299307792-4VZ8GWBBDRRJRJL9RHHZ/Diploma-Director-Desktop-V1.jpg"
+      ]
+    },
+    "new-page-1": {
+      "image_count": 1,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg?format=original"
+      ]
+    },
+    "programme-info-ddmpft": {
+      "image_count": 8,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/07751be1-57d8-47ae-a336-22a0e1b08ed6/RicAw.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/29fe3507-267d-49fb-a232-33477a96ade3/NoraswanMohamed.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3f4eb735-cd67-44be-b5e8-20eaacb551de/director-crew-900x438.jpg?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/5c5a59b3-2ec1-415a-8882-6111e3caaad9/RayPang.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6f31feb0-693e-4f9a-a6a4-703cc6561de9/FritzLim.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ba8eb098-fcc4-4b22-83be-38466dae8d9f/JustinLoh.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cf2e9c5a-af03-4889-b764-700048627691/FooPiaoXu.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d63ea59c-d517-48ff-bcd8-7574b700e821/Boris+Boo.png?format=500w"
+      ]
+    },
+    "sdipp-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3a0e2a40-3567-4d06-9b12-083b0c203d52/3.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7e826350-e300-4c56-9954-8a2211b308b3/Graduate+Survey+2023.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bb98a030-0182-41c8-bdd7-9e5ad20ce110/4.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f56e859a-fbe2-4791-ac72-c21366e5f3cf/2.png?format=original"
+      ]
+    },
+    "ddmpft-form": {
+      "image_count": 4,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3a0e2a40-3567-4d06-9b12-083b0c203d52/3.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7e826350-e300-4c56-9954-8a2211b308b3/Graduate+Survey+2023.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bb98a030-0182-41c8-bdd7-9e5ad20ce110/4.png?format=original",
+        "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f56e859a-fbe2-4791-ac72-c21366e5f3cf/2.png?format=original"
+      ]
+    }
+  },
+  "images": {
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578337175-ZELO5BWMS3KW3D927Y1Q/sma-homepage-wsq-film-tv-script-thumbnail.jpg": {
+      "filename": "sma-homepage-wsq-film-tv-script-thumbnail.jpg",
+      "used_on_pages": [
+        "new-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg": {
+      "filename": "diploma-director-thumbnail.jpg",
+      "used_on_pages": [
+        "new-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1541063566113-NIUB6M0KRA3KRGRYZ3MF/sma-homepage-social-media-marketing-thumbnail.jpg": {
+      "filename": "sma-homepage-social-media-marketing-thumbnail.jpg",
+      "used_on_pages": [
+        "new-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602577664163-NO8JRK6WV4690AM20PAT/sma-homepage-audio-engineering-thumbnail.jpg": {
+      "filename": "sma-homepage-audio-engineering-thumbnail.jpg",
+      "used_on_pages": [
+        "new-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707204648556-X47HCT6GZ6XT4B3BCP9T/DMVE-preview-thumbnail-300x196.jpg": {
+      "filename": "DMVE-preview-thumbnail-300x196.jpg",
+      "used_on_pages": [
+        "new-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534131606350-R1MWCSGL3RA8NTP8I2S0/sma-homepage-diploma-acting-thumbnail.jpg": {
+      "filename": "sma-homepage-diploma-acting-thumbnail.jpg",
+      "used_on_pages": [
+        "new-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1582703641452-VBXT8YAHCRYWUGXYYB7X/wsq-specialist-diploma-media-content-production-management-thumbnail.jpg": {
+      "filename": "wsq-specialist-diploma-media-content-production-management-thumbnail.jpg",
+      "used_on_pages": [
+        "new-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578256849-I7XNUKKQ6CZ3IIFKZE6Z/sma-homepage-wsq-film-tv-production-thumbnail.jpg": {
+      "filename": "sma-homepage-wsq-film-tv-production-thumbnail.jpg",
+      "used_on_pages": [
+        "new-gallery"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/790625ab-f3d0-4784-a8fe-bcae1eed2976/SMA-Preview-Session-01+1.png?format=original": {
+      "filename": "SMA-Preview-Session-01+1.png",
+      "used_on_pages": [
+        "preview-session-info-stay-tuned"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg": {
+      "filename": "diploma-director-thumbnail.jpg",
+      "used_on_pages": [
+        "preview-session-info-copy",
+        "preview-session-info-may-2025",
+        "preview-session-info-stay-tuned",
+        "reference"
+      ],
+      "page_count": 4
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1582703641452-VBXT8YAHCRYWUGXYYB7X/wsq-specialist-diploma-media-content-production-management-thumbnail.jpg": {
+      "filename": "wsq-specialist-diploma-media-content-production-management-thumbnail.jpg",
+      "used_on_pages": [
+        "preview-session-info-copy",
+        "preview-session-info-may-2025",
+        "preview-session-info-stay-tuned",
+        "reference"
+      ],
+      "page_count": 4
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602577664163-NO8JRK6WV4690AM20PAT/sma-homepage-audio-engineering-thumbnail.jpg": {
+      "filename": "sma-homepage-audio-engineering-thumbnail.jpg",
+      "used_on_pages": [
+        "preview-session-info-copy",
+        "preview-session-info-may-2025",
+        "preview-session-info-stay-tuned",
+        "reference"
+      ],
+      "page_count": 4
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578256849-I7XNUKKQ6CZ3IIFKZE6Z/sma-homepage-wsq-film-tv-production-thumbnail.jpg": {
+      "filename": "sma-homepage-wsq-film-tv-production-thumbnail.jpg",
+      "used_on_pages": [
+        "preview-session-info-copy",
+        "preview-session-info-may-2025",
+        "preview-session-info-stay-tuned",
+        "reference"
+      ],
+      "page_count": 4
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1602578337175-ZELO5BWMS3KW3D927Y1Q/sma-homepage-wsq-film-tv-script-thumbnail.jpg": {
+      "filename": "sma-homepage-wsq-film-tv-script-thumbnail.jpg",
+      "used_on_pages": [
+        "preview-session-info-copy",
+        "preview-session-info-may-2025",
+        "preview-session-info-stay-tuned",
+        "reference"
+      ],
+      "page_count": 4
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707204648556-X47HCT6GZ6XT4B3BCP9T/DMVE-preview-thumbnail-300x196.jpg": {
+      "filename": "DMVE-preview-thumbnail-300x196.jpg",
+      "used_on_pages": [
+        "preview-session-info-copy",
+        "preview-session-info-may-2025",
+        "preview-session-info-stay-tuned",
+        "reference"
+      ],
+      "page_count": 4
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1541063566113-NIUB6M0KRA3KRGRYZ3MF/sma-homepage-social-media-marketing-thumbnail.jpg": {
+      "filename": "sma-homepage-social-media-marketing-thumbnail.jpg",
+      "used_on_pages": [
+        "preview-session-info-copy",
+        "preview-session-info-may-2025",
+        "preview-session-info-stay-tuned",
+        "reference"
+      ],
+      "page_count": 4
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534131606350-R1MWCSGL3RA8NTP8I2S0/sma-homepage-diploma-acting-thumbnail.jpg": {
+      "filename": "sma-homepage-diploma-acting-thumbnail.jpg",
+      "used_on_pages": [
+        "preview-session-info-copy",
+        "preview-session-info-may-2025",
+        "preview-session-info-stay-tuned",
+        "reference"
+      ],
+      "page_count": 4
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534253929056-WIZX3V52WCMRGXX20Q84/production-thumbnail.jpg?format=original": {
+      "filename": "production-thumbnail.jpg",
+      "used_on_pages": [
+        "programme-info",
+        "programme-info-wsq-dip-media-ad"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534253824001-7OTK5QIY8I2W0QXI5T17/production-thumbnail.jpg?format=original": {
+      "filename": "production-thumbnail.jpg",
+      "used_on_pages": [
+        "programme-info-2",
+        "programme-info-dip-media-scriptwriter"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/8f3eb96f-7974-4cf1-b24a-c088cc038f9f/Microsite+Course+Page+Visual+%282%29.png?format=original": {
+      "filename": "Microsite+Course+Page+Visual+%282%29.png",
+      "used_on_pages": [
+        "programme-info-3"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/238823d7-7c19-4148-8d03-8f9c9fc60616/NickShen.png?format=500w": {
+      "filename": "NickShen.png",
+      "used_on_pages": [
+        "programme-info-3"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/84048e3a-a729-455d-b391-f9fb763fc4fd/LiowShiSuan.png?format=500w": {
+      "filename": "LiowShiSuan.png",
+      "used_on_pages": [
+        "programme-info-3"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/fc1460f9-e6af-4402-8e2b-3e7ca108719c/CherylZhang.png?format=750w": {
+      "filename": "CherylZhang.png",
+      "used_on_pages": [
+        "programme-info-3"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/4d674429-9200-44eb-8c1d-31733e940ac7/DouglasKung.png?format=1500w": {
+      "filename": "DouglasKung.png",
+      "used_on_pages": [
+        "programme-info-3"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6b696df4-82f1-4992-a4f5-caa8006a7292/BerniceLee.png?format=1500w": {
+      "filename": "BerniceLee.png",
+      "used_on_pages": [
+        "programme-info-3"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bce17131-dae9-4391-885a-c5f97c0527d7/GohWeiNa.png?format=1500w": {
+      "filename": "GohWeiNa.png",
+      "used_on_pages": [
+        "programme-info-3"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f01435cd-049b-4016-85a7-a63a1660ded7/DavidSuen_v1.png?format=500w": {
+      "filename": "DavidSuen_v1.png",
+      "used_on_pages": [
+        "programme-info-3"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b7c78a1-ca9f-45c9-ac7e-54b64d7fb355/sma-pay-now.png": {
+      "filename": "sma-pay-now.png",
+      "used_on_pages": [
+        "faq",
+        "programme-info-3",
+        "programme-info-6"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1534302230764-39DICWOBIJNMRV367MOT/audio-engineering-thumbnail.jpg?format=original": {
+      "filename": "audio-engineering-thumbnail.jpg",
+      "used_on_pages": [
+        "programme-info-1",
+        "programme-info-8hce6"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7a117b9c-86fa-440a-8e90-d579b4cd40d1/AdrianChye.png?format=1500w": {
+      "filename": "AdrianChye.png",
+      "used_on_pages": [
+        "programme-info-5"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1e20c4a4-ab0c-4826-9ff4-f9cf0f6886eb/AzharAzib.png?format=1500w": {
+      "filename": "AzharAzib.png",
+      "used_on_pages": [
+        "programme-info-5"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/5c5a59b3-2ec1-415a-8882-6111e3caaad9/RayPang.png?format=1500w": {
+      "filename": "RayPang.png",
+      "used_on_pages": [
+        "programme-info-5",
+        "programme-info-ddmpft",
+        "programme-info-revised-2"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f36b32ff-49a0-4e3b-9f0c-0c65986ad914/ColinSmith.png?format=1500w": {
+      "filename": "ColinSmith.png",
+      "used_on_pages": [
+        "programme-info-5"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d700a606-c402-4086-b473-17a8582bba13/RexYeap.png?format=500w": {
+      "filename": "RexYeap.png",
+      "used_on_pages": [
+        "programme-info-5"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/38f7d57c-1a16-42a7-ba22-eb6d1535cc72/SongLili.png?format=1500w": {
+      "filename": "SongLili.png",
+      "used_on_pages": [
+        "programme-info-5"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1556810067429-257WE2GJ0MHBWMVN1E40/Andrea-Tan.png?format=1500w": {
+      "filename": "Andrea-Tan.png",
+      "used_on_pages": [
+        "programme-info-5"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1556810090355-YW86WMK6V810SN79B2R5/Nicole-Loh.jpg?format=1500w": {
+      "filename": "Nicole-Loh.jpg",
+      "used_on_pages": [
+        "programme-info-5"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906074442-MG03DQRMKDXYMEF4MVUT/mediacorp-studio-behind-the-scenes.jpg?format=original": {
+      "filename": "mediacorp-studio-behind-the-scenes.jpg",
+      "used_on_pages": [
+        "home-media-gallery"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906081449-98UZR7CV60JFKAX25HGE/guest-sharing-session-priscelia-chan.jpg?format=original": {
+      "filename": "guest-sharing-session-priscelia-chan.jpg",
+      "used_on_pages": [
+        "home-media-gallery"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906088124-Y0QK0FK76JABI1DDX9YY/guest-sharing-session-guo-liang.jpg?format=original": {
+      "filename": "guest-sharing-session-guo-liang.jpg",
+      "used_on_pages": [
+        "home-media-gallery"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906101022-VMG0Z6UYMNK8U29BVS9I/guest-sharing-session-sam-lee.jpg?format=original": {
+      "filename": "guest-sharing-session-sam-lee.jpg",
+      "used_on_pages": [
+        "home-media-gallery"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1536906106318-27ZVVQS5SQSADR2YMG06/guest-sharing-session-lye-lin.jpg?format=original": {
+      "filename": "guest-sharing-session-lye-lin.jpg",
+      "used_on_pages": [
+        "home-media-gallery"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0061c2c0-87c8-4a92-8ec0-5d6acd1dc80e/DisabledActorsStarInLocalIndieFilm.jpeg?format=original": {
+      "filename": "DisabledActorsStarInLocalIndieFilm.jpeg",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b7c78a1-ca9f-45c9-ac7e-54b64d7fb355/sma-pay-now.png?format=original": {
+      "filename": "sma-pay-now.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/46c78ffc-203f-45dd-a500-d48e37e65e68/Trainer.png?format=original": {
+      "filename": "Trainer.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/93672aab-0d93-4b17-a6bb-39d0b3932a8e/Trainer.png?format=original": {
+      "filename": "Trainer.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1556810067429-257WE2GJ0MHBWMVN1E40/Andrea-Tan.png?format=original": {
+      "filename": "Andrea-Tan.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7a117b9c-86fa-440a-8e90-d579b4cd40d1/AdrianChye.png?format=original": {
+      "filename": "AdrianChye.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ff84a564-c325-47fc-bb16-f9c7461adc69/AngQingSheng.png?format=original": {
+      "filename": "AngQingSheng.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1e20c4a4-ab0c-4826-9ff4-f9cf0f6886eb/AzharAzib.png?format=original": {
+      "filename": "AzharAzib.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6f31feb0-693e-4f9a-a6a4-703cc6561de9/FritzLim.png?format=original": {
+      "filename": "FritzLim.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f36b32ff-49a0-4e3b-9f0c-0c65986ad914/ColinSmith.png?format=original": {
+      "filename": "ColinSmith.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cf2e9c5a-af03-4889-b764-700048627691/FooPiaoXu.png?format=original": {
+      "filename": "FooPiaoXu.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ba8eb098-fcc4-4b22-83be-38466dae8d9f/JustinLoh.jpg?format=original": {
+      "filename": "JustinLoh.jpg",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1556810090355-YW86WMK6V810SN79B2R5/Nicole-Loh.jpg?format=original": {
+      "filename": "Nicole-Loh.jpg",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/8ea96b56-579f-4be2-a11e-70eba5cade9a/NikkEu.png?format=original": {
+      "filename": "NikkEu.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/29fe3507-267d-49fb-a232-33477a96ade3/NoraswanMohamed.png?format=original": {
+      "filename": "NoraswanMohamed.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/5c5a59b3-2ec1-415a-8882-6111e3caaad9/RayPang.png?format=original": {
+      "filename": "RayPang.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/07751be1-57d8-47ae-a336-22a0e1b08ed6/RicAw.png?format=original": {
+      "filename": "RicAw.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6273dd4b-74b7-4ef2-9879-b5be52942c93/ShawnKok.png?format=original": {
+      "filename": "ShawnKok.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/38f7d57c-1a16-42a7-ba22-eb6d1535cc72/SongLili.png?format=original": {
+      "filename": "SongLili.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6b696df4-82f1-4992-a4f5-caa8006a7292/BerniceLee.png?format=original": {
+      "filename": "BerniceLee.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bce17131-dae9-4391-885a-c5f97c0527d7/GohWeiNa.png?format=original": {
+      "filename": "GohWeiNa.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/238823d7-7c19-4148-8d03-8f9c9fc60616/NickShen.png?format=original": {
+      "filename": "NickShen.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/84048e3a-a729-455d-b391-f9fb763fc4fd/LiowShiSuan.png?format=original": {
+      "filename": "LiowShiSuan.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b3d0a46-bb12-429e-a87b-be66ab476fdb/DavidSuen.png?format=original": {
+      "filename": "DavidSuen.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d63ea59c-d517-48ff-bcd8-7574b700e821/Boris+Boo.png?format=original": {
+      "filename": "Boris+Boo.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ff52b5a5-cda1-4c34-8c06-c86834a99988/SamLee.png?format=original": {
+      "filename": "SamLee.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/901911e8-7a0c-4419-aafa-ffcb99a2494f/LeeCheeKeng.png?format=original": {
+      "filename": "LeeCheeKeng.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bc68cb6a-9c15-4ab4-95ea-34f4ab5edb80/JanetLiau.png?format=original": {
+      "filename": "JanetLiau.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b5537639-7517-40f0-a361-10fc3720c398/JuanFoo.png?format=original": {
+      "filename": "JuanFoo.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/69e212cb-c9ef-458a-a9e4-dbba72f8354f/SeahLeeYan.png?format=original": {
+      "filename": "SeahLeeYan.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/240cc473-49ad-4ce8-9885-d099e9eccdf9/AngHuiXuan.png?format=original": {
+      "filename": "AngHuiXuan.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d700a606-c402-4086-b473-17a8582bba13/RexYeap.png?format=original": {
+      "filename": "RexYeap.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/fc1460f9-e6af-4402-8e2b-3e7ca108719c/CherylZhang.png?format=original": {
+      "filename": "CherylZhang.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cb07b567-eb71-475c-8df6-a6a86745b51e/JulianCheong.png?format=original": {
+      "filename": "JulianCheong.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/4d674429-9200-44eb-8c1d-31733e940ac7/DouglasKung.png?format=original": {
+      "filename": "DouglasKung.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7d0a3652-1108-40b0-8a4e-dc6bb4310cc6/ChrisLim.png?format=original": {
+      "filename": "ChrisLim.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7d8b966d-38bd-4036-b486-8c0b106d1d14/ZulananAhmad.png?format=original": {
+      "filename": "ZulananAhmad.png",
+      "used_on_pages": [
+        "trainers-internal"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1561018215648-4T7WV72TW6AZLV43K6UP/SMA-DMCC-microsite-banner-texts.png?format=original": {
+      "filename": "SMA-DMCC-microsite-banner-texts.png",
+      "used_on_pages": [
+        "header-6"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1560311205884-QHGYO653ABYM30QL2V28/digital-marketing-and-content-creation-image.jpg?format=original": {
+      "filename": "digital-marketing-and-content-creation-image.jpg",
+      "used_on_pages": [
+        "programme-info-6"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1576831969444-KQ46EH7KMB29M18I9GT1/digital-retail-entertainment-font.png?format=original": {
+      "filename": "digital-retail-entertainment-font.png",
+      "used_on_pages": [
+        "header-5"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/a8d85fe8-7538-4ef4-aa7c-e88d832844d5/SMA-SIRS.png?format=original": {
+      "filename": "SMA-SIRS.png",
+      "used_on_pages": [
+        "programme-info-4",
+        "programme-info-revised-2"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1576834100359-NG5QFZMI7MQ1OZ16UNMT/digital-retail-entertainment-thumbnail.jpg?format=original": {
+      "filename": "digital-retail-entertainment-thumbnail.jpg",
+      "used_on_pages": [
+        "programme-info-4",
+        "programme-info-revised-2"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1582772651619-G4IJ2DTJTHHQQ4VPSK7D/production-crew-thumbnail.jpg?format=original": {
+      "filename": "production-crew-thumbnail.jpg",
+      "used_on_pages": [
+        "programme-info-7"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cf2e9c5a-af03-4889-b764-700048627691/FooPiaoXu.png?format=1500w": {
+      "filename": "FooPiaoXu.png",
+      "used_on_pages": [
+        "programme-info-7",
+        "programme-info-ddmpft",
+        "programme-info-dmve",
+        "programme-info-wsq-dip-media-ad",
+        "programme-info-wsq-dip-media-dir"
+      ],
+      "page_count": 5
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b5537639-7517-40f0-a361-10fc3720c398/JuanFoo.png?format=750w": {
+      "filename": "JuanFoo.png",
+      "used_on_pages": [
+        "programme-info-7"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bc68cb6a-9c15-4ab4-95ea-34f4ab5edb80/JanetLiau.png?format=750w": {
+      "filename": "JanetLiau.png",
+      "used_on_pages": [
+        "programme-info-7",
+        "programme-info-dip-media-scriptwriter",
+        "programme-info-wsq-dip-media-dir"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825874445-3U99Z4LC9VTN1U16OQ6M/image-asset.jpeg?format=original": {
+      "filename": "image-asset.jpeg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232592460-7TFCGW1I4D3OQJXXXA6E/SDIPP_Desktop+2000x500.jpg?format=original": {
+      "filename": "SDIPP_Desktop+2000x500.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559428478-7CARKHBE90KMX9OUS2C4/image-asset.jpeg?format=original": {
+      "filename": "image-asset.jpeg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232724809-KTHHUAUV2Q68N4D860C6/SGUS-Desktop-Slider-2000x500-Sound-Editor-Engineer.jpg?format=original": {
+      "filename": "SGUS-Desktop-Slider-2000x500-Sound-Editor-Engineer.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559488066-CN30QKRGWL5NPTPLH63J/image-asset.jpeg?format=original": {
+      "filename": "image-asset.jpeg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277542042-CT09N9PLIZXQS2OVDXHR/DMVE-Homepage-Slider-Desktop-2000x500-Open-Register.jpg?format=original": {
+      "filename": "DMVE-Homepage-Slider-Desktop-2000x500-Open-Register.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232761998-21C3TPBZ7UPO316QKZ2W/SMMOCC_Desktop+2000x500.jpg?format=original": {
+      "filename": "SMMOCC_Desktop+2000x500.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559200926-68RIH99YH7Z0Z4H13WP2/image-asset.jpeg?format=original": {
+      "filename": "image-asset.jpeg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825959693-VP2GERLWIY70R8PZGVKE/image-asset.jpeg?format=original": {
+      "filename": "image-asset.jpeg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232918839-2LYW3T8WUROYZ4PO0PRY/SDIPP_Mobile+750x500.jpg?format=original": {
+      "filename": "SDIPP_Mobile+750x500.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559624717-H1IB35NMO37FH9BTLRQJ/image-asset.jpeg?format=original": {
+      "filename": "image-asset.jpeg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232884477-526BUUY25PSBTI9PV6IJ/SGUS-Mobile-Slider-750x500-Sound-Editor-Engineer.jpg?format=original": {
+      "filename": "SGUS-Mobile-Slider-750x500-Sound-Editor-Engineer.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677710049-8VQZSGLDIGICGIORYC7A/image-asset.jpeg?format=original": {
+      "filename": "image-asset.jpeg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277841259-108F2PMD37ZI1RRB4768/DMVE-Homepage-Slider-Mobile-750x500-Register-Interest.jpg?format=original": {
+      "filename": "DMVE-Homepage-Slider-Mobile-750x500-Register-Interest.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232971969-9JEMFIH5M46XSVD7WP7V/SMMOCC_Mobile+750x500.jpg?format=original": {
+      "filename": "SMMOCC_Mobile+750x500.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559272263-69625YPM6DP5O6Q2YDCC/image-asset.jpeg?format=original": {
+      "filename": "image-asset.jpeg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "krome-test"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1595232659549-H8RQIILX3YFAK7X6IH3B/image-asset.png?format=original": {
+      "filename": "image-asset.png",
+      "used_on_pages": [
+        "sgunited-programmes-old"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1595831276437-1C21OV52SM082KZ8P478/sma-sgunited-skills-thumbnail.jpg?format=original": {
+      "filename": "sma-sgunited-skills-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3col"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1588734865763-NQSGPYUR74JQRJ6TBJFA/wsq-specialist-diploma-media-content-production-producer-management-thumbnail.jpg?format=original": {
+      "filename": "wsq-specialist-diploma-media-content-production-producer-management-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "home-programmes-3col"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527479258318-KR2K4ONBGN1UCEDIJW0C/sma-homepage-audio-engineering-thumbnail.jpg?format=original": {
+      "filename": "sma-homepage-audio-engineering-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3col"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527480280781-0NH3LS8B00UCDQNX9540/sma-homepage-wsq-film-tv-production-thumbnail.jpg?format=original": {
+      "filename": "sma-homepage-wsq-film-tv-production-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3col"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527480006033-TL0S3IRBVP2DNXGKV8O1/sma-homepage-wsq-film-tv-script-thumbnail.jpg?format=original": {
+      "filename": "sma-homepage-wsq-film-tv-script-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3col"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527479737404-71ACIBZRKYI4Y1RRX9JG/sma-homepage-social-media-marketing-thumbnail.jpg?format=original": {
+      "filename": "sma-homepage-social-media-marketing-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "home-programmes-3col"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1560918797743-4JKAB7VG0TE8HKGKC7PO/sma-homepage-Digital_Marketing_and_Content_Creation.jpg?format=original": {
+      "filename": "sma-homepage-Digital_Marketing_and_Content_Creation.jpg",
+      "used_on_pages": [
+        "home-programmes-3col"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1577084316850-528ASYRIYVQMKKAAB6EN/professional-certificate-digital-retail-entertainment-thumbnail.jpg?format=original": {
+      "filename": "professional-certificate-digital-retail-entertainment-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3col"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1527479559840-6NMPK8COT6U2J9I340S2/sma-homepage-diploma-acting-thumbnail.jpg?format=original": {
+      "filename": "sma-homepage-diploma-acting-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "home-programmes-3col"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1596532631427-4GL9G5FFXL45KF2ZLVCM/sma-sgunited-prog-wtp-thumbnail.jpg?format=original": {
+      "filename": "sma-sgunited-prog-wtp-thumbnail.jpg",
+      "used_on_pages": [
+        "programme-info-6d2dg"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1596532662253-3PZFCMYSS5UCQZ4NAOXC/sma-sgunited-prog-smmtp-thumbnail.jpg?format=original": {
+      "filename": "sma-sgunited-prog-smmtp-thumbnail.jpg",
+      "used_on_pages": [
+        "programme-info-6d2dg"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1596532705094-PAB5XEVZ9BYUS27XE5VN/sma-sgunited-prog-pctp-thumbnail.jpg?format=original": {
+      "filename": "sma-sgunited-prog-pctp-thumbnail.jpg",
+      "used_on_pages": [
+        "programme-info-6d2dg"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1596532742431-5VI95PHW3VZFZKOKMVFL/sma-sgunited-prog-vetp-thumbnail.jpg?format=original": {
+      "filename": "sma-sgunited-prog-vetp-thumbnail.jpg",
+      "used_on_pages": [
+        "programme-info-6d2dg"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ff84a564-c325-47fc-bb16-f9c7461adc69/AngQingSheng.png?format=1500w": {
+      "filename": "AngQingSheng.png",
+      "used_on_pages": [
+        "programme-info-dip-media-scriptwriter"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/cb07b567-eb71-475c-8df6-a6a86745b51e/JulianCheong.png?format=500w": {
+      "filename": "JulianCheong.png",
+      "used_on_pages": [
+        "programme-info-dip-media-scriptwriter"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d63ea59c-d517-48ff-bcd8-7574b700e821/Boris+Boo.png?format=500w": {
+      "filename": "Boris+Boo.png",
+      "used_on_pages": [
+        "programme-info-ddmpft",
+        "programme-info-dip-media-scriptwriter"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6cb5a577-5999-4018-b1bd-9f40fc3d3f31/Website+Event+Banner.png?format=original": {
+      "filename": "Website+Event+Banner.png",
+      "used_on_pages": [
+        "home-programmes-3-col-2"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/29afe851-db6d-4d01-ab70-77a67302482f/diplioma-in-digital-media-production-thumb.jpg?format=original": {
+      "filename": "diplioma-in-digital-media-production-thumb.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da7c1db2-9219-40b4-9e15-6bb7a9572941/diploma-director-thumbnail.jpg?format=original": {
+      "filename": "diploma-director-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2",
+        "new-page-1"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1600168612131-BNPQMP099WBEWDYOBB7F/wsq-dip-media-assistant-director-thumbnail.jpg?format=original": {
+      "filename": "wsq-dip-media-assistant-director-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1600166250488-O56JC7PXZPUPNLJS0ECA/wsq-dip-media-scriptwriter-thumbnail.jpg?format=original": {
+      "filename": "wsq-dip-media-scriptwriter-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1600766591453-GOW1TC9NH37U3DSX7CQG/wsq-dip-media-pp-soundee-thumbnail.jpg?format=original": {
+      "filename": "wsq-dip-media-pp-soundee-thumbnail.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bd49bd1a-0cd0-456f-9257-1c1760481d26/Homepage-Programme-Tile-750x491-DMVE.jpg?format=original": {
+      "filename": "Homepage-Programme-Tile-750x491-DMVE.jpg",
+      "used_on_pages": [
+        "home-programmes-3-col-2"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ba8eb098-fcc4-4b22-83be-38466dae8d9f/JustinLoh.jpg?format=1500w": {
+      "filename": "JustinLoh.jpg",
+      "used_on_pages": [
+        "programme-info-8hce6",
+        "programme-info-ddmpft",
+        "programme-info-wsq-dip-media-ad"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/0b3d0a46-bb12-429e-a87b-be66ab476fdb/DavidSuen.png?format=500w": {
+      "filename": "DavidSuen.png",
+      "used_on_pages": [
+        "programme-info-dmve",
+        "programme-info-wsq-dip-media-ad"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6f31feb0-693e-4f9a-a6a4-703cc6561de9/FritzLim.png?format=1500w": {
+      "filename": "FritzLim.png",
+      "used_on_pages": [
+        "programme-info-8hce6",
+        "programme-info-ddmpft"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/29fe3507-267d-49fb-a232-33477a96ade3/NoraswanMohamed.png?format=1500w": {
+      "filename": "NoraswanMohamed.png",
+      "used_on_pages": [
+        "programme-info-8hce6",
+        "programme-info-ddmpft",
+        "programme-info-dmve"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/8ea96b56-579f-4be2-a11e-70eba5cade9a/NikkEu.png?format=1500w": {
+      "filename": "NikkEu.png",
+      "used_on_pages": [
+        "programme-info-8hce6"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6273dd4b-74b7-4ef2-9879-b5be52942c93/ShawnKok.png?format=1500w": {
+      "filename": "ShawnKok.png",
+      "used_on_pages": [
+        "programme-info-8hce6"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559200926-68RIH99YH7Z0Z4H13WP2/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559488066-CN30QKRGWL5NPTPLH63J/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559428478-7CARKHBE90KMX9OUS2C4/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680696390074-VHIOIP65MUYZJY642Z1Q/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680696458699-F40WQVD5X1W0ZZMKQDCN/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677848796-SGLG66HW6FTE4RIBKBCG/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680676739505-TXJM68AZE7WXWKHY5XV6/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677767096-12HYJZZSSAT02ESUODCD/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677806295-Z8LHJLUR8Y3M0P9OY9MT/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825874445-3U99Z4LC9VTN1U16OQ6M/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825937594-NPCANEH3Y50YA332Y30A/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1743756170606-30VZ80V7ESBJN2CIBP2T/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299307792-4VZ8GWBBDRRJRJL9RHHZ/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299386779-MN6A59NA045IEU146SI9/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1753689241882-QF4G0XIUYGCL2A4N6V1T/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277542042-CT09N9PLIZXQS2OVDXHR/DMVE-Homepage-Slider-Desktop-2000x500-Open-Register.jpg": {
+      "filename": "DMVE-Homepage-Slider-Desktop-2000x500-Open-Register.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232761998-21C3TPBZ7UPO316QKZ2W/SMMOCC_Desktop+2000x500.jpg": {
+      "filename": "SMMOCC_Desktop+2000x500.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232724809-KTHHUAUV2Q68N4D860C6/SGUS-Desktop-Slider-2000x500-Sound-Editor-Engineer.jpg": {
+      "filename": "SGUS-Desktop-Slider-2000x500-Sound-Editor-Engineer.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232592460-7TFCGW1I4D3OQJXXXA6E/SDIPP_Desktop+2000x500.jpg": {
+      "filename": "SDIPP_Desktop+2000x500.jpg",
+      "used_on_pages": [
+        "home-desktop-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277676568-TATFXS5DNZMBN14JKY7E/DMVE-Homepage-Slider-Desktop-2000x500-Register-Interest.jpg": {
+      "filename": "DMVE-Homepage-Slider-Desktop-2000x500-Register-Interest.jpg",
+      "used_on_pages": [
+        "hero-banner",
+        "home-desktop-gallery"
+      ],
+      "page_count": 2
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277841259-108F2PMD37ZI1RRB4768/DMVE-Homepage-Slider-Mobile-750x500-Register-Interest.jpg": {
+      "filename": "DMVE-Homepage-Slider-Mobile-750x500-Register-Interest.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559666442-XK7644H7S80JU9DBMXHL/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559272263-69625YPM6DP5O6Q2YDCC/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1660559624717-H1IB35NMO37FH9BTLRQJ/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677710049-8VQZSGLDIGICGIORYC7A/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680696556136-UWBQ6X0NGMP4HL1U1ZFD/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680696518705-L9EAMFVY8OM61LRX3ILV/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677649967-W6Z0GEFTWI4FSVQBJ8IS/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680676880564-Q75XFPLXHGWA0Z5NTNUI/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825959693-VP2GERLWIY70R8PZGVKE/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1743756273915-O5NK4ASUJAMTSHJIPZZT/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299530227-667VZKQCTLHJ2JQMY5CR/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299447095-X306XWR2Y5T2OCUKQ3VB/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1753689299841-3PWTPAJGQYW2LCM87M1E/image-asset.jpeg/img.jpg": {
+      "filename": "img.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1707277711081-BMMML4H74ISRI9O6QCDQ/DMVE-Homepage-Slider-Mobile-750x500-Open-Register.jpg": {
+      "filename": "DMVE-Homepage-Slider-Mobile-750x500-Open-Register.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1761825984851-35T77HH9X1ERC2QG5D46/Dip-Digital-Media-Prod-Homepage-Slider-Mobile-Open-Register.jpg": {
+      "filename": "Dip-Digital-Media-Prod-Homepage-Slider-Mobile-Open-Register.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232971969-9JEMFIH5M46XSVD7WP7V/SMMOCC_Mobile+750x500.jpg": {
+      "filename": "SMMOCC_Mobile+750x500.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1680677551520-MXDQZCHT381I300P3Z4Q/DMAD.jpg": {
+      "filename": "DMAD.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232918839-2LYW3T8WUROYZ4PO0PRY/SDIPP_Mobile+750x500.jpg": {
+      "filename": "SDIPP_Mobile+750x500.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1658232884477-526BUUY25PSBTI9PV6IJ/SGUS-Mobile-Slider-750x500-Sound-Editor-Engineer.jpg": {
+      "filename": "SGUS-Mobile-Slider-750x500-Sound-Editor-Engineer.jpg",
+      "used_on_pages": [
+        "home-mobile-gallery"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7f276924-79fa-4d1a-94af-2c5f640607b8/2.png?format=original": {
+      "filename": "2.png",
+      "used_on_pages": [
+        "smmocc-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6d39652e-58a6-43e3-90c2-65cba1f8a875/3.png?format=original": {
+      "filename": "3.png",
+      "used_on_pages": [
+        "smmocc-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b27c5185-ebd5-40f4-8830-aca35ef5d4e9/4.png?format=original": {
+      "filename": "4.png",
+      "used_on_pages": [
+        "smmocc-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/19a08c0b-5075-4a14-a74f-97e1cb347f1b/Graduate+Survey+2023.png?format=original": {
+      "filename": "Graduate+Survey+2023.png",
+      "used_on_pages": [
+        "smmocc-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f56e859a-fbe2-4791-ac72-c21366e5f3cf/2.png?format=original": {
+      "filename": "2.png",
+      "used_on_pages": [
+        "ddmpft-form",
+        "dimd-form",
+        "sdipp-form"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3a0e2a40-3567-4d06-9b12-083b0c203d52/3.png?format=original": {
+      "filename": "3.png",
+      "used_on_pages": [
+        "ddmpft-form",
+        "dimd-form",
+        "sdipp-form"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bb98a030-0182-41c8-bdd7-9e5ad20ce110/4.png?format=original": {
+      "filename": "4.png",
+      "used_on_pages": [
+        "ddmpft-form",
+        "dimd-form",
+        "sdipp-form"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7e826350-e300-4c56-9954-8a2211b308b3/Graduate+Survey+2023.png?format=original": {
+      "filename": "Graduate+Survey+2023.png",
+      "used_on_pages": [
+        "ddmpft-form",
+        "dimd-form",
+        "sdipp-form"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/97053b66-4203-4d26-a9b0-f19f842fdd33/2.png?format=original": {
+      "filename": "2.png",
+      "used_on_pages": [
+        "dmad-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/f14b6bab-a776-45c4-8d0d-b2789eb9bf23/3.png?format=original": {
+      "filename": "3.png",
+      "used_on_pages": [
+        "dmad-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/19be4179-f717-4ff5-80f6-b6a2a76140fc/4.png?format=original": {
+      "filename": "4.png",
+      "used_on_pages": [
+        "dmad-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/48d89841-6bc2-4b8a-9412-ac85d1d11091/Graduate+Survey+2023.png?format=original": {
+      "filename": "Graduate+Survey+2023.png",
+      "used_on_pages": [
+        "dmad-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/6ad36aac-e468-4c02-bc11-1d338010f838/2.png?format=original": {
+      "filename": "2.png",
+      "used_on_pages": [
+        "dmsw-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/9c0aaa86-d4a5-4429-9720-e7a66201e27e/3.png?format=original": {
+      "filename": "3.png",
+      "used_on_pages": [
+        "dmsw-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/06f878d6-54e1-4e78-8c9c-838c54b6dc4b/4.png?format=original": {
+      "filename": "4.png",
+      "used_on_pages": [
+        "dmsw-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/4f8ced84-b58c-42df-b070-630fbca62344/Graduate+Survey+2023.png?format=original": {
+      "filename": "Graduate+Survey+2023.png",
+      "used_on_pages": [
+        "dmsw-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/a9bcabfc-01f2-4b91-b84c-145d99ebe5e3/2.png?format=original": {
+      "filename": "2.png",
+      "used_on_pages": [
+        "dmse-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/784a05cc-b445-4b0e-807f-f2b4b5e699f6/3.png?format=original": {
+      "filename": "3.png",
+      "used_on_pages": [
+        "dmse-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/67a92868-fe63-473e-a414-c757712e207c/4.png?format=original": {
+      "filename": "4.png",
+      "used_on_pages": [
+        "dmse-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/c19077d2-226d-4054-87b0-553c0dabe24f/Graduate+Survey+2023.png?format=original": {
+      "filename": "Graduate+Survey+2023.png",
+      "used_on_pages": [
+        "dmse-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bc6a3916-1954-46a2-97b7-b966371a1a52/2.png?format=original": {
+      "filename": "2.png",
+      "used_on_pages": [
+        "dia-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/fc107ef6-077d-4e96-84ff-16bbdec3460f/3.png?format=original": {
+      "filename": "3.png",
+      "used_on_pages": [
+        "dia-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/eb034140-7bbc-4f20-a19d-ef794ece0304/Graduate+Survey+2023.png?format=original": {
+      "filename": "Graduate+Survey+2023.png",
+      "used_on_pages": [
+        "dia-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/e6da8edf-8159-4f8c-bbc2-7e9891dc79b8/sma-dmve-programme-section.jpg?format=original": {
+      "filename": "sma-dmve-programme-section.jpg",
+      "used_on_pages": [
+        "programme-info-dmve"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/07751be1-57d8-47ae-a336-22a0e1b08ed6/RicAw.png?format=750w": {
+      "filename": "RicAw.png",
+      "used_on_pages": [
+        "programme-info-ddmpft",
+        "programme-info-dmve",
+        "programme-info-wsq-dip-media-dir"
+      ],
+      "page_count": 3
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/45e80d5f-a4d8-4597-a104-63f4fc8f4a81/Jamie+Ang.jpeg?format=original": {
+      "filename": "Jamie+Ang.jpeg",
+      "used_on_pages": [
+        "board-of-directors"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/80e21b53-24ce-45ad-882c-0d8b2b090ca6/Doreen+Neo.jpeg?format=original": {
+      "filename": "Doreen+Neo.jpeg",
+      "used_on_pages": [
+        "board-of-directors"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/e80b07a8-478b-4b02-9e06-aca7f31f1df2/Angeline+Poh.jpeg?format=original": {
+      "filename": "Angeline+Poh.jpeg",
+      "used_on_pages": [
+        "board-of-directors"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/2354598b-7cf2-4aca-b484-fdde4cb90d8a/edutrust-logo-01.png?format=original": {
+      "filename": "edutrust-logo-01.png",
+      "used_on_pages": [
+        "edutrust-certification"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/57c263b5-cdc7-4ec7-8a1b-25e9dfbe89b7/sma-organisation-chart-202506.jpg?format=original": {
+      "filename": "sma-organisation-chart-202506.jpg",
+      "used_on_pages": [
+        "organisation-chart"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/19180955-489f-4e2e-82f1-a3e5d02665e1/Studio+4_1.jpg?format=original": {
+      "filename": "Studio+4_1.jpg",
+      "used_on_pages": [
+        "campus-facilities"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/61a026d6-20e7-4ef6-80da-1db58c7e11bc/Media+Lab.jpeg?format=original": {
+      "filename": "Media+Lab.jpeg",
+      "used_on_pages": [
+        "campus-facilities"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/77dbc664-e323-4ca5-827b-5fb6de0a2ad8/Vista+1.jpeg?format=original": {
+      "filename": "Vista+1.jpeg",
+      "used_on_pages": [
+        "campus-facilities"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/7d7077b2-f647-419d-a858-628587fcea7b/Vista+2.jpeg?format=original": {
+      "filename": "Vista+2.jpeg",
+      "used_on_pages": [
+        "campus-facilities"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/c3351b1b-af31-4edf-bcaa-fb0e572d2958/Dance+Studio.jpeg?format=original": {
+      "filename": "Dance+Studio.jpeg",
+      "used_on_pages": [
+        "campus-facilities"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/713e8f86-e390-40cb-bb4e-544d29ef463b/Grad+Survey+2024.png?format=original": {
+      "filename": "Grad+Survey+2024.png",
+      "used_on_pages": [
+        "graduate-survey"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/34d0b342-a87c-46db-ac40-f0f55ad6cf62/2.png?format=original": {
+      "filename": "2.png",
+      "used_on_pages": [
+        "dmve-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bcd57d1a-c13e-4849-bcf9-c6d863357cf5/3.png?format=original": {
+      "filename": "3.png",
+      "used_on_pages": [
+        "dmve-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3c2ac1cf-5a24-43e9-9f80-f4c30a9c7dd1/4.png?format=original": {
+      "filename": "4.png",
+      "used_on_pages": [
+        "dmve-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/dc32a637-f61a-474c-ae05-5159b52bfbee/Graduate+Survey+2023.png?format=original": {
+      "filename": "Graduate+Survey+2023.png",
+      "used_on_pages": [
+        "dmve-form"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/da10f42e-4c29-49a7-aacd-7f9b41a1ee97/2.png?format=original": {
+      "filename": "2.png",
+      "used_on_pages": [
+        "diploma-mces-form",
+        "funded-diploma-form"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/d61e34f6-2be4-47a9-8057-3fd6737f4d3d/3.png?format=original": {
+      "filename": "3.png",
+      "used_on_pages": [
+        "diploma-mces-form",
+        "funded-diploma-form"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/c2492ee1-2f64-4b91-bdb4-f3ff679dc73d/4.png?format=original": {
+      "filename": "4.png",
+      "used_on_pages": [
+        "diploma-mces-form",
+        "funded-diploma-form"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b771ed41-2e6e-4931-bcb0-f9a019b10d53/Graduate+Survey+2023.png?format=original": {
+      "filename": "Graduate+Survey+2023.png",
+      "used_on_pages": [
+        "diploma-mces-form",
+        "funded-diploma-form"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/686a4ed9-3688-415e-9fb8-b0692c213cdf/Link+to+Video.png?format=original": {
+      "filename": "Link+to+Video.png",
+      "used_on_pages": [
+        "student-works"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/2bb00147-c7f3-4c7e-b891-9355c73fc2ba/Link+to+Video+%281%29.png?format=original": {
+      "filename": "Link+to+Video+%281%29.png",
+      "used_on_pages": [
+        "student-works"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/bd1069cb-5fd1-4107-a886-c5c893da4095/David.png?format=original": {
+      "filename": "David.png",
+      "used_on_pages": [
+        "reference"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3db24a18-82e6-4f9a-b800-b75cb978e56d/Janet.png?format=original": {
+      "filename": "Janet.png",
+      "used_on_pages": [
+        "reference"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/9db78ce3-327a-498a-83ee-fb83b3173006/Fritz.png?format=original": {
+      "filename": "Fritz.png",
+      "used_on_pages": [
+        "reference"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/b591a035-e2c5-442a-ab28-0de38958642f/Ray.png?format=original": {
+      "filename": "Ray.png",
+      "used_on_pages": [
+        "reference"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/c30936ce-e4c0-45a0-bd89-41f1a40349d8/Noraswan.png?format=original": {
+      "filename": "Noraswan.png",
+      "used_on_pages": [
+        "reference"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/12dc46a0-a61e-483c-8e2d-3df8c28f19e9/Juan.png?format=original": {
+      "filename": "Juan.png",
+      "used_on_pages": [
+        "reference"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/574dda22-630b-446a-b359-420c821ac480/Shisuen.png?format=original": {
+      "filename": "Shisuen.png",
+      "used_on_pages": [
+        "reference"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/8bead372-b6ea-4868-b454-124f6b0835d5/MeWatch.png?format=original": {
+      "filename": "MeWatch.png",
+      "used_on_pages": [
+        "reference"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/ddb8b4f7-1897-4cc7-9638-8f2b7217a8f1/Ray.png?format=original": {
+      "filename": "Ray.png",
+      "used_on_pages": [
+        "preview-session-info-copy"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/241ecb32-7276-4e32-863d-db896dc1a698/Juan.png?format=original": {
+      "filename": "Juan.png",
+      "used_on_pages": [
+        "preview-session-info-copy"
+      ],
+      "page_count": 1
+    },
+    "https://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/3f4eb735-cd67-44be-b5e8-20eaacb551de/director-crew-900x438.jpg?format=original": {
+      "filename": "director-crew-900x438.jpg",
+      "used_on_pages": [
+        "programme-info-ddmpft",
+        "programme-info-wsq-dip-media-dir"
+      ],
+      "page_count": 2
+    },
+    "https://images.squarespace-cdn.com/content/5b0511ba710699e0647fd707/1582702760495-JC6Z0WC6Y795YQCYV8I3/Zulanan_Ahmad.jpg": {
+      "filename": "Zulanan_Ahmad.jpg",
+      "used_on_pages": [
+        "programme-info-wsq-dip-media-dir"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1641195804448-SXJUVJY8KDOHKMWF3JBF/SGUS-Desktop-Slider-2000x500-Assistant-Director.jpg": {
+      "filename": "SGUS-Desktop-Slider-2000x500-Assistant-Director.jpg",
+      "used_on_pages": [
+        "hero-banner"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1747299307792-4VZ8GWBBDRRJRJL9RHHZ/Diploma-Director-Desktop-V1.jpg": {
+      "filename": "Diploma-Director-Desktop-V1.jpg",
+      "used_on_pages": [
+        "hero-banner"
+      ],
+      "page_count": 1
+    },
+    "http://images.squarespace-cdn.com/content/v1/5b0511ba710699e0647fd707/1743756170606-30VZ80V7ESBJN2CIBP2T/sma-preview-2000x500-desktop.jpg": {
+      "filename": "sma-preview-2000x500-desktop.jpg",
+      "used_on_pages": [
+        "hero-banner"
+      ],
+      "page_count": 1
+    }
+  },
+  "summary": {
+    "total_pages": 51,
+    "total_images": 235,
+    "total_relationships": 317
+  }
+}
